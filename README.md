@@ -1,6 +1,6 @@
-# Frontend Mentor - Testimonials grid section solution
+# Testimonials Grid Section solution using Tailwind CSS & HTML
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
 
@@ -15,8 +15,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kbrandon19/Testimonial-Grid](https://github.com/kbrandon19/Testimonial-Grid)
+- Live Site URL: [https://kbrandon19.github.io/Testimonial-Grid/](https://kbrandon19.github.io/Testimonial-Grid/)
 
 ## My process
 
@@ -56,7 +54,6 @@ I decided to try my hand at completing this task using Tailwind CSS. The concept
 
 There are a ton of things I still have left to learn within Tailwind CSS but overall I am happy with the outcome and I plan on using Tailwind CSS for future projects. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -65,10 +62,10 @@ There are a ton of things I still have left to learn within Tailwind CSS but ove
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@kbrandon19](https://www.frontendmentor.io/profile/kbrandon19)
+- Twitter - [@MrDebonairFox](https://www.twitter.com/MrDebonairFox)
+
+
 
 
