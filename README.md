@@ -1,6 +1,5 @@
 # Testimonials Grid Section solution using Tailwind CSS & HTML
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
 
@@ -24,13 +23,12 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-## Screenshot
+### Screenshot
 
-### Mobile (375px)
+#### Mobile (375px)
 ![](./images/mobile-screenshot.png)
 
-### Desktop (1440px)
-
+#### Desktop (1440px)
 ![](./images/screenshot-1440x800.png)
 
 
@@ -40,24 +38,18 @@ Users should be able to:
 - Live Site URL: [https://kbrandon19.github.io/Testimonial-Grid/](https://kbrandon19.github.io/Testimonial-Grid/)
 
 ## My process
+After viewing the static design for the website, I thought 
 
 ### Built with
-
 
 - Tailwind CSS
 - CSS Grid
 - Mobile-first workflow
 
 
-
-### What I learned
-
-I decided to try my hand at completing this task using Tailwind CSS. The concept is quite easy and straight forward when it come to adding the styling with only classes. Having the documentation next to me I was able to create it as close to the design as possible.
-
-
 ### Continued development
 
-There are a ton of things I still have left to learn within Tailwind CSS but overall I am happy with the outcome and I plan on using Tailwind CSS for future projects. 
+There are a ton of things I still have left to learn within Tailwind CSS but overall I am happy with the outcome and I plan on using Tailwind CSS for future projects to become more proficient.
 
 
 ### Useful resources
@@ -66,7 +58,6 @@ There are a ton of things I still have left to learn within Tailwind CSS but ove
 
 
 ## Author
-
 
 - Frontend Mentor - [@kbrandon19](https://www.frontendmentor.io/profile/kbrandon19)
 - Twitter - [@MrDebonairFox](https://www.twitter.com/MrDebonairFox)
