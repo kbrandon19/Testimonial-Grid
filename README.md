@@ -4,7 +4,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,11 +16,7 @@
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
+ View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
@@ -38,7 +33,7 @@ Users should be able to:
 - Live Site URL: [https://kbrandon19.github.io/Testimonial-Grid/](https://kbrandon19.github.io/Testimonial-Grid/)
 
 ## My process
-After viewing the static design for the website, I thought 
+After viewing the static design for the website I knew it would be a perfect opportunity to use Tailwind CSS. Due to the scope of the project is chose to use Tailwind via CDN. In future projects I will include Tailwind as part of my build process to customize the theme and use the directives.
 
 ### Built with
 
